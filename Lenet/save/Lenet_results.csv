@@ -1,0 +1,3 @@
+epoch,train_loss,train_error,valid_loss,valid_error,test_error
+001,1.849471,0.652378,3.26199,0.75400,
+002,1.513538,0.532333,1.98532,0.62660,
